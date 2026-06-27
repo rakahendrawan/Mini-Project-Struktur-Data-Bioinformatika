@@ -1,7 +1,10 @@
 # Mini Project: Integrasi Struktur Data untuk Pipeline Analisis Sederhana
-Nama: Rakazaki Putra Hendrawan 
+Nama: Rakazaki Putra Hendrawan
+
 NIM: G0401241056
-Mata Kuliah: **Struktur Data Bioinformatika (BIF1223)** — Pertemuan #15
+
+Mata Kuliah: **Struktur Data Bioinformatika (BIF1223)**
+
 Dosen: Toto Haryanto
 
 ## Deskripsi
