@@ -62,4 +62,4 @@ genom mitokondria hewan.
 
 ## Author
 
-[ISI NAMA KAMU] — [ISI NIM KAMU]
+Rakazaki Putra Hendrawan — G0401241056
